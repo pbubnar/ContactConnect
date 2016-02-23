@@ -1,5 +1,5 @@
 require "ContactConnect/version"
-
+require "watir-webdriver"
 module ContactConnect
-  # Your code goes here...
+
 end
